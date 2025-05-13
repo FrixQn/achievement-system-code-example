@@ -7,6 +7,9 @@
 
 [Description](Task.pdf)
 
+## Result
+![Example](Result.gif)
+
 ## Stack:
 * **Unity 6**
 * **DOTween**

@@ -7,6 +7,9 @@
 
 [Описание](Task.pdf)
 
+## Результат
+![Example](Result.gif)
+
 ## Стек:
 * **Unity 6**
 * **DOTween**
